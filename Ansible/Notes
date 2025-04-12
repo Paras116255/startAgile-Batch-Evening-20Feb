@@ -228,7 +228,7 @@ Change user from root to ansiuser
 Step 2:
 Generate ssh key on Master node for ansiuser
 Execute below command:
-# ssh-keygen
+# ssh-keygen -t rsa
 
 press enter
 press enter
